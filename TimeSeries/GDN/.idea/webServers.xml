@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="08f2b378-8c5c-4a65-831c-20cae048331b" name="ecnu">
+        <fileTransfer rootFolder="/home/pjw" accessType="SFTP" host="172.20.3.60" port="22" sshConfigId="4f90bcf4-f4b1-4114-ae23-abc85e0b2c3d" sshConfig="pjw@172.20.3.60:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
